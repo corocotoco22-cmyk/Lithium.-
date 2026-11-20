@@ -1,1 +1,2 @@
-# Lithium.-
+# Lithium Brower
+Um navegador leve
